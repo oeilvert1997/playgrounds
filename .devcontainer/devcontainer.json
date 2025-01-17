@@ -16,6 +16,7 @@
       },
       "extensions": [
         "asvetliakov.vscode-neovim",
+        "mhutchie.git-graph",
         "denoland.vscode-deno"
       ]
     }
