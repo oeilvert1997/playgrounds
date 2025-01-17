@@ -12,6 +12,7 @@
       "settings": {
       },
       "extensions": [
+        "denoland.vscode-deno"
       ]
     }
   }
