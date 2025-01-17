@@ -9,6 +9,10 @@
     "codespaces": {
     },
     "vscode": {
+      "settings": {
+      },
+      "extensions": [
+      ]
     }
   }
 }
